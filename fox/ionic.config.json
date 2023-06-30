@@ -1,0 +1,7 @@
+{
+  "name": "fox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
